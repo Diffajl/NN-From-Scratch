@@ -1,2 +1,2 @@
 # NN-From-Scratch
-### \delta_W
+perubahan \( \delta w \) adalah...
